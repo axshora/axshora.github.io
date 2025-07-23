@@ -1,0 +1,1 @@
+export const env={"PUBLIC_BOOK_REPO_URL":"https://axshora.github.io/library"}
